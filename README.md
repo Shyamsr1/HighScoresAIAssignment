@@ -21,14 +21,14 @@ The content is designed for:
 ---
 
 ## 📂 File Structure
-
+```
 HighScoresAIAssignment/
 │
 ├── HighScoresAIAssignment.ipynb   # Main Colab notebook
 ├── questions.docx                 # Original set of questions in DOCX format
 ├── README.md                      # Project documentation
 └── ...
-
+```
 ---
 
 

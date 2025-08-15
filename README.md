@@ -64,7 +64,7 @@ HighScoresAIAssignment/
 **Install requirements:**
 ```bash
 pip install python-docx Pillow
-
+```
 ---
 
 ## 🚀 Export to GitHub

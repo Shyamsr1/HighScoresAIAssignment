@@ -25,9 +25,9 @@ The content is designed for:
 HighScoresAIAssignment/
 │
 ├── HighScoresAIAssignment.ipynb   # Main Colab notebook
-├── questions.docx                 # Original set of questions in DOCX format
-├── README.md                      # Project documentation
-└── ...
+├── Math_Assessment.docx           # Question output format in DOCX format
+├── Math Question Generation.docx  # Project documentation
+└── README.md
 ```
 ---
 
